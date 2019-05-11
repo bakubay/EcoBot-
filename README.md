@@ -11,10 +11,11 @@ After he runs out of space in his bags, he calls certain **recyclign tube** to e
 Game ends if he fails to collect rubbish 7 times.
 ![alt text](https://github.com/bakubay/EcoBot-/blob/master/Screen%20Shot%202019-05-11%20at%2015.16.50.png)
 
-## Storyboard
-At the star of the game we see Welcome page:
-Instructions		
-Start the game after SPACE 
+## Logic/ Flowchart
+![alt_text](https://github.com/bakubay/EcoBot-/blob/master/EcoBotFlowChart.png)
 
+## How it is made?
+The **EcoBot** game was made using only Processing programming languge. It makes use its draw() function to generate *60 frames* of an image per second. Some liblaries such as *Minim* are used to enable features like audio playing.
 
-
+## Images
+Images found online in different websites with a resusable for non-commercial certifications.
